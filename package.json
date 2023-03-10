@@ -1,0 +1,20 @@
+{
+  "name": "verceltest",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nyaremiiy/verceltest.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nyaremiiy/verceltest/issues"
+  },
+  "homepage": "https://github.com/nyaremiiy/verceltest#readme"
+}
