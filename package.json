@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/nyaremiiy/verceltest/issues"
   },
-  "homepage": "https://github.com/nyaremiiy/verceltest#readme"
+  "homepage": "https://github.com/nyaremiiy/verceltest#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
 }
